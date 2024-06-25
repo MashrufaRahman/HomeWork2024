@@ -47,7 +47,7 @@ public class AboutMeTest {
 		Alex.rollNumber = 23;
 		Alex.grade = 4.0;
 		Alex.aboutMe();  // method called
-		System.out.println();
+		//System.out.println();
 		
 		
 
