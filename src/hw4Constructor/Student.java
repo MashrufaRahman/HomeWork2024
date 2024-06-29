@@ -1,4 +1,5 @@
 package hw4Constructor;
+
 /*
  * HW_QA_Java_Constructor:
 
@@ -24,6 +25,7 @@ public class Student {
 	public Student() {
 		System.out.println("I am a constructor from Student");
 	}
+
 	// parameterized constructor declared/defined---1
 	public Student(String stName, int stID, char gender, float grade, boolean isProgrammer) {
 		super();
